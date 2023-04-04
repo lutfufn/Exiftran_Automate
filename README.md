@@ -5,7 +5,7 @@ This script asks the user for the desired transformation, and then transforms al
 # Dependencies 
 You need Exiftran installed on your system. 
 
-# On Ubuntu 
+# On Ubuntu or Debian
 ```bash
 $ sudo apt install exiftran
 ```
